@@ -37,6 +37,8 @@ public class MainActivity extends AppCompatActivity implements GestureDetector.O
         return super.onTouchEvent(event);
     }
 
+
+    // My main activity implements GestureDetector. I'm required to implement some methods.
     // Alt-Insert - Implement Methods - Auto fills the methods we have to create
     // must return true in order to work.
     // manipulate methods to your own designs.
